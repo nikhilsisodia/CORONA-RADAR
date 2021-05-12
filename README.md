@@ -1,6 +1,8 @@
 # CORONA-RADAR
 This is a flutter based application to provide relevant covid data based on location. The search bar would enable to toggle different Indian states. An API is used from https://corona.lmao.ninja/ for covid data of state or country.
 
+You can find the apk file of the app above . . .
+
 This is the flowchart illustrating the hierarchy of the features in this app.
 
 
